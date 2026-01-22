@@ -1,9 +1,9 @@
 {
-  "name": "Allocated pSOL",
-  "symbol": "pStake",
-  "description": "Much wow, very Solana, such speeds",
+  "name": "Allocated Funds",
+  "symbol": "PENDING",
+  "description": "Algorithmic stablecoin pegged to USDs",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://soldoge.com",
+  "external_url": "https://stableusd.finance",
   "attributes": [],
   "properties": {
     "files": [
