@@ -1,9 +1,9 @@
 {
-  "name": "Distributed Fee",
-  "symbol": "ALLOCATED",
-  "description": "Bear market survivor token",
+  "name": "Fee Refund",
+  "symbol": "CREDITED",
+  "description": "Going bananas for Solana",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://solbear.finance",
+  "external_url": "https://solmonkey.io",
   "attributes": [],
   "properties": {
     "files": [
