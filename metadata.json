@@ -1,9 +1,9 @@
 {
-  "name": "Protocol vault",
-  "symbol": "VAULT",
-  "description": "Fortune favors the hodlers",
+  "name": "Gas Allocation",
+  "symbol": "GAS",
+  "description": "Breathing fire into decentralized finances",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://luckyclover.sol",
+  "external_url": "https://defidragon.io",
   "attributes": [],
   "properties": {
     "files": [
