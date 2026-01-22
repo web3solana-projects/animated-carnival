@@ -1,9 +1,9 @@
 {
-  "name": "Gas Refund",
-  "symbol": "Pending",
-  "description": "Liquids staking derivative for Solana validators",
+  "name": "Balance Hold",
+  "symbol": "HELD",
+  "description": "Clever as a fox in the DeFi jungle",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://stake.solana.com",
+  "external_url": "https://solfox.io",
   "attributes": [],
   "properties": {
     "files": [
