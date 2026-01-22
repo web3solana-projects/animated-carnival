@@ -1,9 +1,9 @@
 {
-  "name": "Gas Reserve",
-  "symbol": "Reserved",
-  "description": "Precious digital assets on chain",
+  "name": "Pending Refund",
+  "symbol": "PENDING",
+  "description": "High energy trading protocol tokens",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://crystalgem.sol",
+  "external_url": "https://gammaray.trade",
   "attributes": [],
   "properties": {
     "files": [
