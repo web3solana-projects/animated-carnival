@@ -1,9 +1,9 @@
 {
-  "name": "Funds Reserved",
-  "symbol": "Pending",
-  "description": "Golden rewards for phantom wallet users",
+  "name": "Reserved Fund",
+  "symbol": "rpSOL",
+  "description": "Illuminating the Solana ecosystem",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://phantomgold.io",
+  "external_url": "https://neonglow.sol",
   "attributes": [],
   "properties": {
     "files": [
