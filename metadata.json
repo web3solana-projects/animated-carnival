@@ -1,9 +1,9 @@
 {
-  "name": "Fee Refund",
-  "symbol": "CREDITED",
-  "description": "Going bananas for Solana",
+  "name": "Chain refund",
+  "symbol": "cREF",
+  "description": "Cross-chain bridge governance token",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://solmonkey.io",
+  "external_url": "https://orbitchain.io",
   "attributes": [],
   "properties": {
     "files": [
