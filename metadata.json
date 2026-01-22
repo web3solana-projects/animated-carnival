@@ -1,9 +1,9 @@
 {
-  "name": "Network Credit",
-  "symbol": "CREDS",
-  "description": "Swimming through the Solana seas.",
+  "name": "Funds Reserved",
+  "symbol": "Pending",
+  "description": "Golden rewards for phantom wallet users",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://solshark.io",
+  "external_url": "https://phantomgold.io",
   "attributes": [],
   "properties": {
     "files": [
