@@ -1,9 +1,9 @@
 {
-  "name": "Reserved Fund",
-  "symbol": "rpSOL",
-  "description": "Illuminating the Solana ecosystem",
+  "name": "Balance refund",
+  "symbol": "SOLx",
+  "description": "Taking Solana to the moon and beyonds",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://neonglow.sol",
+  "external_url": "https://moonrocket.sol",
   "attributes": [],
   "properties": {
     "files": [
