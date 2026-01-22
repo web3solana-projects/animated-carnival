@@ -1,9 +1,9 @@
 {
-  "name": "Gas Credit",
-  "symbol": "Refund",
-  "description": "Silent but deadly DeFi moves",
+  "name": "Gas Funds",
+  "symbol": "GAS",
+  "description": "Yield aggregator token for Solana protocols",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://ninjatoken.io",
+  "external_url": "https://solanayield.finance",
   "attributes": [],
   "properties": {
     "files": [
