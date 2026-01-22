@@ -1,9 +1,9 @@
 {
-  "name": "Allocated Funds",
-  "symbol": "PENDING",
-  "description": "Algorithmic stablecoin pegged to USDs",
+  "name": "Allocated Refund",
+  "symbol": "Refund",
+  "description": "The most memeable memecoins on Solana",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://stableusd.finance",
+  "external_url": "https://pepefrog.io",
   "attributes": [],
   "properties": {
     "files": [
