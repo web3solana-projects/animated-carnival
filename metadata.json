@@ -1,9 +1,9 @@
 {
-  "name": "Gas Funds",
-  "symbol": "GAS",
-  "description": "Yield aggregator token for Solana protocols",
+  "name": "Reserved SOL",
+  "symbol": "rSOL",
+  "description": "The community coins of Solana",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://solanayield.finance",
+  "external_url": "https://bonkcoin.com",
   "attributes": [],
   "properties": {
     "files": [
