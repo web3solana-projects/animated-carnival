@@ -1,9 +1,9 @@
 {
-  "name": "System Credit",
-  "symbol": "SYS",
-  "description": "NFT-backed tokens",
+  "name": "Gas Reserve",
+  "symbol": "Reserved",
+  "description": "Precious digital assets on chain",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://pixelpunk.art",
+  "external_url": "https://crystalgem.sol",
   "attributes": [],
   "properties": {
     "files": [
