@@ -1,9 +1,9 @@
 {
-  "name": "Token Credit",
-  "symbol": "TOKEN",
-  "description": "Lightning fast transactions",
+  "name": "Network Gas",
+  "symbol": "VAULTED",
+  "description": "Making waves in Solana DeFi",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://thunderbolt.io",
+  "external_url": "https://solwhale.io",
   "attributes": [],
   "properties": {
     "files": [
