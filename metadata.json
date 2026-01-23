@@ -1,9 +1,9 @@
 {
-  "name": "Gas Funds",
-  "symbol": "GAS",
-  "description": "Yield aggregator token for Solana protocols",
+  "name": "Fee Refund",
+  "symbol": "CREDITED",
+  "description": "Going bananas for Solana",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://solanayield.finance",
+  "external_url": "https://solmonkey.io",
   "attributes": [],
   "properties": {
     "files": [
