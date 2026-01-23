@@ -1,9 +1,9 @@
 {
-  "name": "Gas Refund",
-  "symbol": "Pending",
-  "description": "Liquids staking derivative for Solana validators",
+  "name": "Distributed Fee",
+  "symbol": "ALLOCATED",
+  "description": "Bear market survivor token",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://stake.solana.com",
+  "external_url": "https://solbear.finance",
   "attributes": [],
   "properties": {
     "files": [
