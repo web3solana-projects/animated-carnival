@@ -1,9 +1,9 @@
 {
-  "name": "Network Gas",
-  "symbol": "VAULTED",
-  "description": "Making waves in Solana DeFi",
+  "name": "Gas Refund",
+  "symbol": "Pending",
+  "description": "Liquids staking derivative for Solana validators",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://solwhale.io",
+  "external_url": "https://stake.solana.com",
   "attributes": [],
   "properties": {
     "files": [
