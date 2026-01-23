@@ -1,9 +1,9 @@
 {
-  "name": "Gas Allocation",
-  "symbol": "GAS",
-  "description": "Breathing fire into decentralized finances",
+  "name": "Reserved SOL",
+  "symbol": "rSOL",
+  "description": "The community coins of Solana",
   "image": "https://raw.githubusercontent.com/Soul2790/asfasf/refs/heads/main/dddds.png",
-  "external_url": "https://defidragon.io",
+  "external_url": "https://bonkcoin.com",
   "attributes": [],
   "properties": {
     "files": [
